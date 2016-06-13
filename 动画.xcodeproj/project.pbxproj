@@ -15,6 +15,8 @@
 		652E3B191CD35C1200598A69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 652E3B171CD35C1200598A69 /* LaunchScreen.storyboard */; };
 		652E3B241CD35C1200598A69 /* __Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 652E3B231CD35C1200598A69 /* __Tests.m */; };
 		652E3B2F1CD35C1200598A69 /* __UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 652E3B2E1CD35C1200598A69 /* __UITests.m */; };
+		652E3B3D1CD35F2100598A69 /* bb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 652E3B3C1CD35F2100598A69 /* bb.jpg */; };
+		652E3B411CD3689F00598A69 /* a.png in Resources */ = {isa = PBXBuildFile; fileRef = 652E3B401CD3689F00598A69 /* a.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		652E3B2A1CD35C1200598A69 /* 动画UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "动画UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		652E3B2E1CD35C1200598A69 /* __UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __UITests.m; sourceTree = "<group>"; };
 		652E3B301CD35C1200598A69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		652E3B3C1CD35F2100598A69 /* bb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bb.jpg; sourceTree = "<group>"; };
+		652E3B401CD3689F00598A69 /* a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		652E3B081CD35C1200598A69 /* 动画 */ = {
 			isa = PBXGroup;
 			children = (
+				652E3B401CD3689F00598A69 /* a.png */,
+				652E3B3C1CD35F2100598A69 /* bb.jpg */,
 				652E3B0C1CD35C1200598A69 /* AppDelegate.h */,
 				652E3B0D1CD35C1200598A69 /* AppDelegate.m */,
 				652E3B0F1CD35C1200598A69 /* ViewController.h */,
@@ -244,7 +250,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				652E3B191CD35C1200598A69 /* LaunchScreen.storyboard in Resources */,
+				652E3B3D1CD35F2100598A69 /* bb.jpg in Resources */,
 				652E3B161CD35C1200598A69 /* Assets.xcassets in Resources */,
+				652E3B411CD3689F00598A69 /* a.png in Resources */,
 				652E3B141CD35C1200598A69 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
